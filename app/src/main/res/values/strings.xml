@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Project</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+    <string name="user_info">User info</string>
+</resources>
